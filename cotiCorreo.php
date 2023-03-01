@@ -30,7 +30,7 @@
                             </form>
                             <!-- Colocar la página de los productos para volver --> 
                             <button type="button" name="volver" class="btn btn-secondary text-white mb-4" 
-                                style="border-radius:20px; width:22rem;" onclick="location.href='index.php'">Volver</button>
+                                style="border-radius:20px; width:22rem;" onclick="location.href='index.html'">Volver</button>
                         </div>
                     </div>
                 </div>

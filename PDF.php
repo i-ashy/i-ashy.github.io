@@ -137,7 +137,7 @@ session_start();
 
                 echo "<script>
                 alert('Correo enviado éxitosamente.')
-                document.location.href='index.php';
+                document.location.href='index.html';
                 </script>";
                 session_destroy();
                 //echo "<div class='alert alert-success'>Correo enviado éxitosamente.</div>";
