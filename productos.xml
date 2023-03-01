@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<productos>
+
+<producto>
+<id>1</id>
+  <nombre>Funko POP! Spider-Man - Spider-Man Homecoming</nombre>
+  <precio>$20.00</precio>
+  <linkimg>http://marveltoynews.com/wp-content/uploads/2017/02/Homecoming-Spider-Man-POP-Vinyl-Funko-Figure.jpg</linkimg>
+</producto>
+
+<producto>
+<id>2</id>
+  <nombre>Funko POP! Tony Stark - Spider-Man Homecoming</nombre>
+  <precio>$16.00</precio>
+  <linkimg>http://marveltoynews.com/wp-content/uploads/2017/02/Funko-Spider-Man-Homecoming-Tony-Stark-POP-Vinyls-Figure.jpg</linkimg>
+</producto>
+
+<producto>
+<id>3</id>
+  <nombre>Funko POP! Set 5 Figuras - Spiderman No Way Home </nombre>
+  <precio>$70.00</precio>
+  <linkimg>https://http2.mlstatic.com/D_NQ_NP_744129-MLM48320424778_112021-O.webp</linkimg>
+</producto>
+
+<producto>
+<id>4</id>
+  <nombre>Funko POP! Scarlet Witch - Dr Strange MOM</nombre>
+  <precio>$21.00</precio>
+  <linkimg>https://agathamarket.cl/wp-content/uploads/2022/07/AgathaMarket.CL__0051_Capa_161.jpg</linkimg>
+</producto>
+
+<producto>
+<id>5</id>
+  <nombre>Funko POP! 372 Todoroki - My Hero Academy</nombre>
+  <precio>$20.25</precio>
+  <linkimg>https://www.promoverperu.com/wp-content/uploads/2021/03/889698321280.jpg</linkimg>
+</producto>
+
+<producto>
+<id>6</id>
+  <nombre>Funko POP! 393 Roy Mustang - Full Metal Alchemist</nombre>
+  <precio>$22.00</precio>
+  <linkimg>https://http2.mlstatic.com/D_NQ_NP_2X_973398-MLC33028371966_112019-F.webp</linkimg>
+</producto>
+
+<producto>
+<id>7</id>
+  <nombre>Funko POP! Ichigo Bankai Tensa Zangetsu - Bleach</nombre> 
+  <precio>$35.00</precio>
+  <linkimg>https://funkasticcity.com/wp-content/uploads/2022/01/ichigo-chase-1087-aaa-anime.jpg</linkimg>
+</producto>
+
+<producto>
+<id>8</id>
+  <nombre>Funko POP! Naruto Running - Naruto</nombre>
+  <precio>$25.00</precio>
+  <linkimg>https://cdn.shopify.com/s/files/1/1140/8354/products/FNK-46626-CA_800x.jpg?v=1647662662</linkimg>
+</producto>
+
+<producto>
+<id>9</id>
+  <nombre>Funko POP! Sasuke 72 - Naruto</nombre>
+  <precio>$20.50</precio>
+  <linkimg>https://www.cardtastic.com.au/database/images/pop-naruto-shippuden-sasuke-main-6377-6377.jpg</linkimg>
+</producto>
+
+</productos>
